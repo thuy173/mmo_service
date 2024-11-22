@@ -1,0 +1,51 @@
+export const products = [
+    {
+        name: "HotMail NEW",
+        description: '',
+        live: "3-5 hours",
+        price: "$250.00",
+        quantity: 123,
+    },
+    {
+        name: "OutLook NEW",
+        description: '',
+        live: "3-5 hours",
+        price: "$150.00",
+        quantity: 123,
+    },
+    {
+        name: "OutLook DOMAIN NEW",
+        description: '',
+        live: "3-5 hours",
+        price: "$350.00",
+        quantity: 123,
+    },
+    {
+        name: "Hotmail TRUSTED",
+        description: '(Sử dụng IP Việt + đọc qua POP3. Để tránh bị quét Ko đọc qua IMAP + ko sử dụng 1 ip cho nhiều mail)',
+        live: "3-5 hours",
+        price: "$450.00",
+        quantity: 123,
+    },
+    {
+        name: "Outlook TRUSTED",
+        description: '(Sử dụng IP Việt + đọc qua POP3. Để tránh bị quét Ko đọc qua IMAP + ko sử dụng 1 ip cho nhiều mail)',
+        live: "3-5 hours",
+        price: "$550.00",
+        quantity: 123,
+    },
+    {
+        name: "HOTMAIL PVA ĐÃ VERY PHONE CHƯA THÊM KHÔI PHỤC",
+        description: '',
+        live: "3-5 hours",
+        price: "$200.00",
+        quantity: 123,
+    },
+    {
+        name: "Hotmail PVA kèm mail khôi phục getnada.com",
+        description: '',
+        live: "3-5 hours",
+        price: "$300.00",
+        quantity: 123,
+    },
+]

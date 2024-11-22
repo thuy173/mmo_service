@@ -1,0 +1,164 @@
+{
+    "breadcrumbHome": "主页",
+    "btnSave": "保存",
+    "btnBack": "返回",
+    "btnCancel": "取消",
+    "login": {
+      "title": "登录",
+      "username": "用户名",
+      "password": "密码",
+      "button": "登录",
+      "successMessage": "登录成功！",
+      "errorMessage": "登录失败！请检查您的凭证。"
+    },
+    "errorPage": {
+      "title": "哎呀！！！",
+      "content": "您正在寻找的页面无法找到。",
+      "button": "返回主页"
+    },
+    "confirmDeleteModal": {
+      "title": "删除",
+      "content": "您确定要删除",
+      "cancel": "取消",
+      "btnDelete": "删除"
+    },
+    "menu": {
+      "chip": "新",
+      "home": "仪表板",
+      "productCategory": "产品类别",
+      "product": "产品",
+      "allProduct": "所有产品",
+      "accountSold": "已售账户",
+      "accountInStock": "库存账户",
+      "order": "订单",
+      "coupon": "优惠券",
+      "post": "帖子",
+      "allPost": "所有帖子",
+      "postCategory": "帖子类别",
+      "transaction": "交易"
+    },
+    "dashboard": {
+      "user": "会员",
+      "order": "已售订单",
+      "orderTotal": "订单总数",
+      "revenue": "订单利润"
+    },
+    "account": {
+      "breadcrumbSub": "账户",
+      "breadcrumbSoldSub": "已售账户",
+      "accountName": "账户",
+      "productCode": "产品代码",
+      "orderCode": "订单代码",
+      "create": "创建时间"
+    },
+    "order": {
+      "breadcrumbSub": "订单",
+      "order": "订单",
+      "product": "产品",
+      "pay": "支付",
+      "time": "时间"
+    },
+    "post": {
+      "breadcrumbSub": "帖子",
+      "breadcrumbAdd": "添加帖子",
+      "breadcrumbUpdate": "更新帖子",
+      "title": "标题",
+      "thumbnail": "缩略图",
+      "postCategory": "帖子类别",
+      "author": "作者",
+      "shortContent": "简短内容",
+      "content": "内容",
+      "active": "激活",
+      "btnSubmit": "添加新帖子"
+    },
+    "postCategory": {
+      "breadcrumbSub": "帖子类别",
+      "breadcrumbAdd": "添加类别",
+      "breadcrumbUpdate": "更新类别",
+      "name": "类别名称",
+      "image": "图片",
+      "description": "SEO描述",
+      "active": "激活",
+      "btnSubmit": "添加新帖子类别"
+    },
+    "product": {
+      "breadcrumbSub": "产品",
+      "breadcrumbAdd": "添加产品",
+      "breadcrumbUpdate": "更新产品",
+      "name": "产品名称",
+      "price": "价格",
+      "sellPrice": "销售价格",
+      "capitalPrice": "成本价格",
+      "currency": "美元",
+      "discount": "折扣",
+      "minPurchase": "最小购买数量",
+      "maxPurchase": "最大购买数量",
+      "priorityNum": "优先编号",
+      "countryCode": "国家代码",
+      "account": "账户",
+      "category": "类别",
+      "shortDescription": "简短描述",
+      "description": "详细描述",
+      "noteFile": "备注文件.txt",
+      "checkLive": "检查实时",
+      "active": "状态",
+      "createAt": "创建时间",
+      "btnSubmit": "添加新产品"
+    },
+    "productCategory": {
+      "breadcrumbSub": "产品类别",
+      "add": "添加类别",
+      "addSub": "添加子类别",
+      "update": "更新类别",
+      "updateSub": "更新子类别",
+      "delete": "更新类别",
+      "name": "类别名称",
+      "subName": "子类别名称",
+      "image": "图片",
+      "description": "SEO描述",
+      "active": "状态",
+      "orderNum": "订单编号",
+      "btnSubmit": "添加新产品类别"
+    },
+    "stock": {
+      "breadcrumbSub": "账户",
+      "account": "账户",
+      "productCode": "产品代码",
+      "createAt": "创建时间",
+      "addAccountText": "添加账户文本",
+      "addAccountFile": "添加账户文件.txt",
+      "deleteAll": "删除所有",
+      "titleAdd": "添加新账户",
+      "titleAddFile": "添加新账户文件.txt",
+      "btnSubmit": "添加"
+    },
+    "transaction": {
+      "breadcrumbSub": "交易",
+      "userName": "用户名",
+      "balanceBefore": "之前余额",
+      "balanceAfter": "之后余额",
+      "amount": "金额",
+      "reason": "原因",
+      "createAt": "时间"
+    },
+    "coupon": {
+      "breadcrumbSub": "优惠券",
+      "breadcrumbAdd": "添加优惠券",
+      "breadcrumbUpdate": "更新优惠券",
+      "couponCode": "代码",
+      "quantity": "数量",
+      "discount": "折扣",
+      "limit": "限额（美元）",
+      "apply": "适用于所有",
+      "create": "创建时间",
+      "reqDiscount": "折扣为必填项",
+      "inputDiscount": "折扣",
+      "inputQuantity": "数量",
+      "inputMin": "最低订单金额",
+      "inputMax": "最高订单金额",
+      "currency": "美元",
+      "btnAdd": "新优惠券",
+      "btnSubmit": "添加新优惠券"
+    }
+  }
+  
